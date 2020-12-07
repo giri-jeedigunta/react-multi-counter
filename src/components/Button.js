@@ -2,13 +2,13 @@ import React from "react";
 
 const buttonCSS = {
   fontWeight: "bold",
-  fontSize: "24px",
+  fontSize: "18px",
   borderRadius: "50%",
   height: "30px",
   width: "30px",
   textAlign: "center",
   verticalAlign: "center",
-  lineHeight: "24px",
+  lineHeight: "18px",
   border: "1px solid #ddd"
 };
 

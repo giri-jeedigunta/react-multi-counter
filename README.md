@@ -1,2 +1,3 @@
 # react-multi-counter
-Created with CodeSandbox
+
+Simple counter app with React and useState.

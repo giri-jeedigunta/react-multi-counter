@@ -15,7 +15,7 @@ const counterWrapper = {
 const counterNum = {
   margin: "0",
   padding: "0 20px",
-  fontSize: "92px",
+  fontSize: "38px",
   textAlign: "center"
 };
 

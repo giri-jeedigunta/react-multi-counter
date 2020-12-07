@@ -11,14 +11,14 @@ export default function App() {
           customIncrementer: 1,
           customDecrenmenter: 1,
           currentCounter: 0,
-          label: "Counter 1"
+          label: "Default Counter"
         }}
       />
       <Counter
         counterOptions={{
-          customIncrementer: 1,
-          customDecrenmenter: 1,
-          currentCounter: 0,
+          customIncrementer: 5,
+          customDecrenmenter: 5,
+          currentCounter: 1,
           label: "My Counter"
         }}
       />
